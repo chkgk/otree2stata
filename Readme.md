@@ -1,4 +1,4 @@
-# oTree2Stata
+# otree2stata
 
 ## Description
 STATA does not play well with variable names that contain dots. When exporting data from oTree, variable names contain dots between model name and variable name (e.g. "player.payoff"). Thus, they cannot be used in STATA easily.
